@@ -1,2 +1,3 @@
-# Pacmangame
-Collaborated with 1 team member to design a Pacman game, allowing players to play as in the original game, with different maps and characters.
+# PROJECT 3: REINFORCEMENT LEARNING
+
+In this project, you will implement value iteration and Q-learning. You will test your agents first on Gridworld (from class), then apply them to a simulated robot controller (Crawler) and Pacman.
